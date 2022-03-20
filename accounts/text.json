@@ -1,0 +1,42 @@
+[
+    {
+        "shop_name": "Abipravi",
+        "user": "Praveen Kumar",
+        "email":"darkparadise877@gmail.com",
+        "password":"praveen123"
+    },
+    {
+        "shop_name": "Abipravi",
+        "user": "Praveen Kumar",
+        "email":"darkparadise8737@gmail.com",
+        "password":"praveen123"
+    },
+
+    {
+        "email": "darkparadise877@gmail.com",
+        "password":"praveen123"
+    },
+    {
+        "email": "darkparadise8737@gmail.com",
+        "password":"praveen123"
+    },
+    {
+        "shop_email": "darkparadise877@gmail.com",
+        "product_name":"Billing Shop",
+        "date":"2022-03-14",
+        "product_price":1000,
+        "product_qty":1000,
+        "product_gst":2.5,
+        "total_price":10000000
+    },
+    {
+        "shop_email": "darkparadise8737@gmail.com",
+        "product_name":"News App",
+        "date":"2022-03-10",
+        "product_price":12,
+        "product_qty":100,
+        "product_gst":1,
+        "total_price":1300
+    }
+
+]
